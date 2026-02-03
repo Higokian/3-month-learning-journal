@@ -1,8 +1,8 @@
 # Full Stack Development Learning Journal
 
-> **Started:** 02/03/2026
+> **Started:** 02/05/2026
 > **Goal:** Land a full stack developer role within 3 months  
-> **Current Week:** Week 1 of 12
+> **Current Week:** Week 1 of 12 (Week starts Thursdays)
 
 ---
 
@@ -101,9 +101,7 @@
 **What I'm getting better at:**
 
 -
--
-
-**What still feels difficult:**
+- **What still feels difficult:**
 
 -
 -
@@ -134,13 +132,9 @@
 
 **Biggest challenge:**
 
--
+- **How I overcame it:**
 
-**How I overcame it:**
-
--
-
-**What I'm still stuck on:**
+- **What I'm still stuck on:**
 
 -
 
@@ -148,13 +142,9 @@
 
 **What I should do more of:**
 
--
+- **What I should do less of:**
 
-**What I should do less of:**
-
--
-
-**What I need to change:**
+- **What I need to change:**
 
 -
 
@@ -162,17 +152,11 @@
 
 **Main focus:**
 
--
+- **Projects to work on:**
 
-**Projects to work on:**
+- **Skills to develop:**
 
--
-
-**Skills to develop:**
-
--
-
----
+- ***
 
 ## Monthly Milestone Review
 
@@ -240,9 +224,7 @@
 
 -
 -
--
-
----
+- ***
 
 ## Problem-Solving Log
 
@@ -301,18 +283,12 @@
 **Common Pitfalls:**
 
 -
--
-
-**Related Concepts:**
+- **Related Concepts:**
 
 -
--
+- **Resources:**
 
-**Resources:**
-
--
-
----
+- ***
 
 ## Interview Prep Section
 
@@ -374,9 +350,7 @@
 
 -
 -
--
-
----
+- ***
 
 ## Resources Library
 
@@ -398,9 +372,7 @@
 
 ### Tools I Love:
 
--
-
----
+- ***
 
 ## Daily Entries Start Here ⬇️
 
