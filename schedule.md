@@ -4,33 +4,33 @@
 
 ---
 
-## Daily Schedule Template (Afternoon Focus)
+## Daily Schedule (Afternoon Focus)
 
 ### Work Days: Thursday - Monday (3-4 hours/day after work)
 
 **After Work Schedule:**
 
-**12:00 PM - 1:00 PM: Learning Block**
+**1:00 PM - 2:00 PM: Learning Block**
 
 - Watch tutorials or read documentation
 - Take notes on new concepts
 - Code along with examples
 
-**1:00 PM - 1:15 PM: Break**
+**2:00 PM - 2:15 PM: Break**
 
 - Stretch, walk, grab a snack
 
-**1:15 PM - 3:00 PM: Deep Work Block**
+**2:15 PM - 4:00 PM: Deep Work Block**
 
 - Hands-on coding practice
 - Build features for current project
 - Work through exercises/challenges
 - NO distractions (phone away, close tabs)
 
-**3:00 PM - 3:30 PM: Review & Planning**
+**4:00 PM - 4:30 PM: Review & Planning**
 
 - Review the day's accomplishments
-- Update your learning journal
+- Update my learning journal
 - Commit code to GitHub
 - Plan tomorrow's focus areas
 
@@ -71,7 +71,7 @@
 **3:00 PM - 4:00 PM: Review & Documentation**
 
 - Commit all code to GitHub
-- Document what you learned
+- Document what I learned
 - Write blog post draft or update README
 
 **Wednesday: Project Day & Week Preparation**
@@ -80,7 +80,7 @@
 
 - Build significant features
 - Work on portfolio projects
-- Integrate what you learned this week
+- Integrate what I learned this week
 
 **8:00 AM - 9:00 AM: Breakfast Break**
 
@@ -88,7 +88,7 @@
 
 - Complete features
 - Debugging and testing
-- Code review your own work
+- Code review my own work
 
 **12:00 PM - 1:00 PM: Lunch Break**
 
@@ -101,8 +101,8 @@
 
 **3:00 PM - 4:00 PM: Weekly Review**
 
-- What did you accomplish this week?
-- What challenges did you face?
+- What did I accomplish this week?
+- What challenges did I face?
 - Adjust next week's plan if needed
 - Celebrate wins!
 
@@ -116,7 +116,7 @@
 
 - Afternoon: Set up development environment (VS Code, Node.js, Git)
 - Deep work: ES6 features - let/const, arrow functions, template literals
-- Evening: Start reading about destructuring for tomorrow
+- Evening: Start reading about destructuring for Saturday
 
 **Friday (Work Day - 3 hours)**
 
@@ -591,27 +591,6 @@
 ---
 
 ## Accountability & Tracking
-
-### Daily Log Template:
-
-```
-Date: _______
-Time spent: _______
-What I learned: _______
-What I built: _______
-Blockers: _______
-Tomorrow's focus: _______
-```
-
-### Weekly Review Questions:
-
-1. Did I meet my weekly goal?
-2. What was my biggest win this week?
-3. What challenged me most?
-4. What should I adjust for next week?
-5. Am I on track for my 3-month goal?
-
----
 
 ## Motivation Tips
 
