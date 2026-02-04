@@ -10,8 +10,8 @@
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 0     |
-| GitHub Commits           | 0     |
+| Total Days Coded         | 1     |
+| GitHub Commits           | 8     |
 | Projects Completed       | 0     |
 | LeetCode Problems Solved | 0     |
 | Job Applications Sent    | 0     |
