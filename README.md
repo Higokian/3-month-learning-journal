@@ -77,9 +77,9 @@
 
 #### 🎯 Today's Focus:
 
-- [ ] Set up dev environment
-- [ ] Review let/const, Arrow Functions, Template Strings
-- [ ] Light reading on Destructuring
+- [x] Set up dev environment
+- [x] Review let/const, Arrow Functions, Template Strings
+- [x] Light reading on Destructuring
 
 #### 📚 What I Learned:
 
@@ -120,3 +120,53 @@
 Overall, I'm feeling pretty good about all of the topics I went over today. Being that I was already familiar with all of them, it all clicked pretty quickly. Despite that though, I still learned some new things! I'm excited to continue on and get into things unfamiliar.
 
 ---
+
+### Friday (Started Thursday), 2/5/2026 - Day 2 of 90
+
+**Time Spent:** [X hours]
+
+#### 🎯 Today's Focus:
+
+- [ ] Practice ES6 arrow functions and template literals
+- [ ] Build temperature converter app
+- [ ] Solve 1-2 CodeWars problems
+
+#### 📚 What I Learned:
+
+-
+-
+-
+
+#### 💻 What I Built/Coded:
+
+-
+-
+
+#### 💡 Aha Moments:
+
+> [Something that finally clicked or a breakthrough understanding]
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- **How I solved it (or plan to):**
+
+#### 🔗 Resources Used:
+
+- [Tutorial/article link]
+- [Documentation link]
+
+#### ✅ Wins of the Day:
+
+- Managed to use the shorthand arrow function without using a reference!
+  `let evenOrOdd = number => number % 2 === 0 ? 'Even' : 'Odd';`
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [What to focus on next]
+- [ ] [Any carry-over tasks]
+
+#### 💭 Reflection:
+
+[How are you feeling? Energy level? Confidence? Any concerns?]
