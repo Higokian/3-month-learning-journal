@@ -71,7 +71,7 @@
 
 <!-- Continue daily entries below -->
 
-### Wednesday, 2/4/2026 - Day 1 of 90
+### Wednesday, 2/5/2026 - Day 1 of 90
 
 **Time Spent:** ~3 hours
 
@@ -121,52 +121,66 @@ Overall, I'm feeling pretty good about all of the topics I went over today. Bein
 
 ---
 
-### Friday (Started Thursday), 2/5/2026 - Day 2 of 90
+### Friday (Started Thursday), 2/6/2026 - Day 2 of 90
 
-**Time Spent:** [X hours]
+**Time Spent:** ~3 hours
 
 #### 🎯 Today's Focus:
 
-- [ ] Practice ES6 arrow functions and template literals
-- [ ] Build temperature converter app
-- [ ] Solve 1-2 CodeWars problems
+- [x] Practice ES6 arrow functions and template literals
+- [x] Build temperature converter app
+- [x] Solve 1-2 CodeWars problems
 
 #### 📚 What I Learned:
 
--
--
--
+- How to create an event listener for pressing the Enter key
 
 #### 💻 What I Built/Coded:
 
--
--
+- Temperature converter app
 
 #### 💡 Aha Moments:
 
-> [Something that finally clicked or a breakthrough understanding]
+- I couldn't wrap my head around why when adding an event listener to trigger the conversion by pressing space, must be attached to the input instead of the button. Then I realized, you have to attach it to the element that's currently the focus. In the case of pressing enter, the input is focused when typing anything in.
 
 #### 🚧 Challenges/Blockers:
 
 - **Challenge:**
 - **How I solved it (or plan to):**
+- My biggest challenge is what I wrote about in my "Aha!" moment. It took me a few different resources to figure it out. Ultimately, Gemini (AI) made it clear for me.
 
 #### 🔗 Resources Used:
 
-- [Tutorial/article link]
-- [Documentation link]
+- [MDN - addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 #### ✅ Wins of the Day:
 
 - Managed to use the shorthand arrow function without using a reference!
   `let evenOrOdd = number => number % 2 === 0 ? 'Even' : 'Odd';`
--
+- Successfully created a 'keydown' event listener
 
 #### 📝 Notes for Tomorrow:
 
-- [ ] [What to focus on next]
-- [ ] [Any carry-over tasks]
+- [ ] Destructuring
+- [ ] Add more features to temperature converter app (doesn't have to be tomorrow)
 
 #### 💭 Reflection:
 
-[How are you feeling? Energy level? Confidence? Any concerns?]
+Today's project was more challenging than the codewars challenges and Thursday's (2/5/2026) learnings. Overall, I'm pretty happy with my temperature converter app. I will definitely be adding more do it in the near future, probably on one of my 8-10 days. This project was really fun to make and I'm excited to start more!
+
+#### Journal Prompts
+
+1. What was easier than expected when building this project?
+   Nothing, really. This was a great challenge!
+
+2. What was harder than expected?
+   Definitely creating an event listener for pressing "Enter" on the keyboard. I had thought that I could essentially just copy and paste my code for the button click event listener. Boy, was I wrong!
+
+3. How comfortable do I feel with arrow functions now (1-10)?
+   9/10
+
+4. What feature would I add next if I had time?
+   I'd like to add a F to C conversion feature and possible a kelvin conversion.
+
+5. Did I use template literals? How did they make my code cleaner?
+   Yes! I love template literals. They are much easier to work with than just concatenating everything.
