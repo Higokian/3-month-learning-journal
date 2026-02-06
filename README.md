@@ -171,16 +171,16 @@ Today's project was more challenging than the codewars challenges and Thursday's
 #### Journal Prompts
 
 1. What was easier than expected when building this project?
-   Nothing, really. This was a great challenge!
+   - Nothing, really. This was a great challenge!
 
 2. What was harder than expected?
-   Definitely creating an event listener for pressing "Enter" on the keyboard. I had thought that I could essentially just copy and paste my code for the button click event listener. Boy, was I wrong!
+   - Definitely creating an event listener for pressing "Enter" on the keyboard. I had thought that I could essentially just copy and paste my code for the button click event listener. Boy, was I wrong!
 
 3. How comfortable do I feel with arrow functions now (1-10)?
-   9/10
+   - 9/10
 
 4. What feature would I add next if I had time?
-   I'd like to add a F to C conversion feature and possible a kelvin conversion.
+   - I'd like to add a F to C conversion feature and possible a kelvin conversion.
 
 5. Did I use template literals? How did they make my code cleaner?
-   Yes! I love template literals. They are much easier to work with than just concatenating everything.
+   - Yes! I love template literals. They are much easier to work with than just concatenating everything.
