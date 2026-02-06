@@ -10,10 +10,10 @@
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 1     |
-| GitHub Commits           | 8     |
-| Projects Completed       | 0     |
-| LeetCode Problems Solved | 0     |
+| Total Days Coded         | 2     |
+| GitHub Commits           | 15    |
+| Projects Completed       | 1     |
+| CodeWars Problems Solved | 4     |
 | Job Applications Sent    | 0     |
 | Interviews Scheduled     | 0     |
 
