@@ -13,7 +13,11 @@
 
 ---
 
-## Quick Stats Tracker
+## 🏆 Completed Projects
+
+- [Temperature Converter](https://github.com/Higokian/temperature-converter/deployments/github-pages)
+
+## 📈 Quick Stats
 
 | Metric                   | Count |
 | ------------------------ | ----- |
