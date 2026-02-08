@@ -111,3 +111,54 @@ Today's project was more challenging than the codewars challenges and Thursday's
 
 5. Did I use template literals? How did they make my code cleaner?
    - Yes! I love template literals. They are much easier to work with than just concatenating everything.
+
+---
+
+### Saturday, 2/7/2026 - Day [3] of 90
+
+**Time Spent:** ~ 4 hours
+
+#### 🎯 Today's Focus:
+
+- [x] Destructuring basics
+- [x] Refactor Temp app
+- [ ] Plan weekend projects
+
+#### 📚 What I Learned:
+
+- Mostly a refresher day, but I did learn a little bit about using config. I need to take some more time to figure it out, though.
+-
+-
+
+#### 💻 What I Built/Coded:
+
+- Mostly just destructuring exercises
+- Refactored my temp conversion app to include destructuring where applicable.
+
+#### 💡 Aha Moments:
+
+I didn't really have an "aha" moment today, unfortunately.
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- **How I solved it (or plan to):**
+- While refactoring my temperature converter app to use destructuring, claude wanted me to completely change up my event listener. However, I feel that how I currently have it coded is the best solution. Claude's solution confuses me a bit, so I plan to dig a little deeper into it to help me understand.
+
+#### 🔗 Resources Used:
+
+- [JS Algorithms and Data Structures - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+
+#### ✅ Wins of the Day:
+
+- Successfully refactored my temp converter app
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] Continue to use destructuring to cement it into my brain
+- [ ] Brainstorm weekend projects (can be done at work)
+
+#### 💭 Reflection:
+
+I'm feeling mostly fine about today's progress. I was really tired after work, so I definitely wasn't as productive as I could have been. I did manage to finish everything aside from brainstorming some projects for the weekend. My confidence with destructuring still has some room to grow, so I will be focusing on that for now.
