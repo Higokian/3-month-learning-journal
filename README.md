@@ -15,14 +15,14 @@
 
 ## 🏆 Completed Projects
 
-- [Temperature Converter](https://github.com/Higokian/temperature-converter/deployments/github-pages)
+- [Temperature Converter](https://github.com/Higokian/temperature-converter)
 
 ## 📈 Quick Stats
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 2     |
-| GitHub Commits           | 15    |
+| Total Days Coded         | 3     |
+| GitHub Commits           | 22    |
 | Projects Completed       | 1     |
 | CodeWars Problems Solved | 4     |
 | Job Applications Sent    | 0     |
