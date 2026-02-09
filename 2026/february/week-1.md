@@ -114,7 +114,7 @@ Today's project was more challenging than the codewars challenges and Thursday's
 
 ---
 
-### Saturday, 2/7/2026 - Day [3] of 90
+### Saturday, 2/7/2026 - Day 3 of 90
 
 **Time Spent:** ~ 4 hours
 
@@ -162,3 +162,55 @@ I didn't really have an "aha" moment today, unfortunately.
 #### 💭 Reflection:
 
 I'm feeling mostly fine about today's progress. I was really tired after work, so I definitely wasn't as productive as I could have been. I did manage to finish everything aside from brainstorming some projects for the weekend. My confidence with destructuring still has some room to grow, so I will be focusing on that for now.
+
+---
+
+### Sunday, 2/8/2026 - Day 4 of 90
+
+**Time Spent:** [3 hours, 30 minutes]
+
+#### 🎯 Today's Focus:
+
+- [x] Learn spread operator and rest parameters
+- [ ] Build a tip calculator using ES6 features
+- [x] Continue refining destructuring skills
+
+#### 📚 What I Learned:
+
+- Config objects are used to pass a single object into a function to handle multiple settings, rather than pass a long list of arguments.
+-
+-
+
+#### 💻 What I Built/Coded:
+
+- First half of tip calculator project
+-
+
+#### 💡 Aha Moments:
+
+> [No aha moments today unfortunately]
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- **How I solved it (or plan to):**
+- Still working to fully wrap my head around how to properly use config objects. I plan to further research and practice this.
+
+#### 🔗 Resources Used:
+
+- [Rest Parameters spread(https://javascript.info/rest-parameters-spread)]
+- [Documentation link]
+
+#### ✅ Wins of the Day:
+
+- Completed the HTML and CSS of tip calculator project
+- Completed first half of the tip calculator project javascript
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] Finish last 2 parts before continuing onto Monday's schedule
+- [ ] [Any carry-over tasks]
+
+#### 💭 Reflection:
+
+Today was a long day for me, so my energy level is a bit low. Confidence isn't as high as the first few days. I'm struggling to understand when to use spread/rest operator and config objects. While today was mostly productive, I'm hoping a fresh start tomorrow will do some good.
