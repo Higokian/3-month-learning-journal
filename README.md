@@ -21,8 +21,8 @@
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 3     |
-| GitHub Commits           | 22    |
+| Total Days Coded         | 4     |
+| GitHub Commits           | 33    |
 | Projects Completed       | 1     |
 | CodeWars Problems Solved | 4     |
 | Job Applications Sent    | 0     |
