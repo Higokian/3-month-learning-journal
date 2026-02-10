@@ -214,3 +214,71 @@ I'm feeling mostly fine about today's progress. I was really tired after work, s
 #### 💭 Reflection:
 
 Today was a long day for me, so my energy level is a bit low. Confidence isn't as high as the first few days. I'm struggling to understand when to use spread/rest operator and config objects. While today was mostly productive, I'm hoping a fresh start tomorrow will do some good.
+
+## Daily Log Template
+
+### [Monday], [2/9/2026] - Day [5] of 90
+
+**Time Spent:** [4 hours]
+
+#### 🎯 Today's Focus:
+
+- [x] [Review ES6 concepts learned so far]
+- [x] [Continue/enhance tip calculator]
+- [ ] [Practice CodeWars problems]
+- [ ] [Prep for tomorrow's big Tuesday learning day]
+
+#### 📚 What I Learned:
+
+- A lot of destructuring and spread/rest operator concepts clicked
+- Learned how to do real-time calculation
+
+#### 💻 What I Built/Coded:
+
+- Added new features to tip calculator: reset button, quick tip buttons, and real-time calculation
+-
+
+#### 💡 Aha Moments:
+
+- Using destructuring to easily create easier access to elements.
+  ``
+  // Helper function to get DOM elements by ID
+  const getElement = (id) => document.getElementById(id);
+
+// Get references to DOM elements
+Const elements = {
+billAmount: getElement("billAmount),
+tipPercentage: getElement("tipPercentage),
+numPeople: getElement("numPeople)
+}
+
+// Destructure elements for easier access
+const {
+billAmount,
+tipPercentage,
+numPeople,
+etc
+} = elements;
+
+``
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- Biggest challenge was trying to use the spread operator on objects without realizing it. Once I realized that I needed to use array destructuring in order to spread them, it finally made more sense.
+- **How I solved it (or plan to):**
+- I put the TypeError code I was getting, into Gemini. It explained the issue with my code in detail.
+
+#### ✅ Wins of the Day:
+
+- Successfully added new features
+- Completed tip calculator app so I can dive into my movie search app
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [Make sure to start on time and take your time!!]
+
+#### 💭 Reflection:
+
+[How are you feeling? Energy level? Confidence? Any concerns?]
+I'm feeling a bit more confident than yesterday after having successfully added new features that required a couple of concepts that I was unfamiliar with. I am still a little concerned about my ability to correctly use destructuring and spread/rest operators.
