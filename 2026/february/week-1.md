@@ -280,5 +280,4 @@ etc
 
 #### 💭 Reflection:
 
-[How are you feeling? Energy level? Confidence? Any concerns?]
 I'm feeling a bit more confident than yesterday after having successfully added new features that required a couple of concepts that I was unfamiliar with. I am still a little concerned about my ability to correctly use destructuring and spread/rest operators.
