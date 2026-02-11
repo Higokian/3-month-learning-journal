@@ -215,7 +215,7 @@ I'm feeling mostly fine about today's progress. I was really tired after work, s
 
 Today was a long day for me, so my energy level is a bit low. Confidence isn't as high as the first few days. I'm struggling to understand when to use spread/rest operator and config objects. While today was mostly productive, I'm hoping a fresh start tomorrow will do some good.
 
-## Daily Log Template
+---
 
 ### [Monday], [2/9/2026] - Day [5] of 90
 
@@ -281,3 +281,64 @@ etc
 #### 💭 Reflection:
 
 I'm feeling a bit more confident than yesterday after having successfully added new features that required a couple of concepts that I was unfamiliar with. I am still a little concerned about my ability to correctly use destructuring and spread/rest operators.
+
+---
+
+### [Tuesday], [2/10/2026] - Day [6] of 90
+
+**Time Spent:** [4 hours]
+
+#### 💭 Reflection:
+
+Today was my birthday so I didn't spend much time learning today. I did add some bonus feature to my tip calculator (noted in Day 5's journal entry). I'm going to be a little behind so I have to adjust my schedule to fit both today and tomorrow's schedules into one.
+
+---
+
+### [Day of Week], [Date] - Day [X] of 90
+
+**Time Spent:** [X hours]
+
+#### 🎯 Today's Focus:
+
+- [ ] [Main goal 1]
+- [ ] [Main goal 2]
+- [ ] [Main goal 3]
+
+#### 📚 What I Learned:
+
+-
+-
+-
+
+#### 💻 What I Built/Coded:
+
+-
+-
+
+#### 💡 Aha Moments:
+
+> [Something that finally clicked or a breakthrough understanding]
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- **How I solved it (or plan to):**
+
+#### 🔗 Resources Used:
+
+- [Tutorial/article link]
+- [Documentation link]
+
+#### ✅ Wins of the Day:
+
+-
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [What to focus on next]
+- [ ] [Any carry-over tasks]
+
+#### 💭 Reflection:
+
+[How are you feeling? Energy level? Confidence? Any concerns?]
