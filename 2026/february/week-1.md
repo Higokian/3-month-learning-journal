@@ -294,35 +294,38 @@ Today was my birthday so I didn't spend much time learning today. I did add some
 
 ---
 
-### [Day of Week], [Date] - Day [X] of 90
+### [Wednesday], [2/11/2026] - Day [7] of 90
 
-**Time Spent:** [X hours]
+**Time Spent:** [1 hour 15 min]
 
 #### 🎯 Today's Focus:
 
-- [ ] [Main goal 1]
-- [ ] [Main goal 2]
+- [ ] [Learn array methods - .map(), .filter(), .reduce()]
+- [ ] [Build Movie Search App - Core Version]
 - [ ] [Main goal 3]
 
 #### 📚 What I Learned:
 
--
--
+- How to use .map(), .filter(), and .reduce()
+- Chaining array methods
 -
 
 #### 💻 What I Built/Coded:
 
--
+- I built a movie search app utilizing .map(), .filter(), and .reduce()
 -
 
 #### 💡 Aha Moments:
 
-> [Something that finally clicked or a breakthrough understanding]
+I've struggled to understand how and when to use .map() and .reduce(), but it's pretty clear to me after my learnings today and the movie search app.
 
 #### 🚧 Challenges/Blockers:
 
-- **Challenge:**
-- **How I solved it (or plan to):**
+**Challenge:**
+Adding the modal was probably my biggest challenge
+
+**How I solved it (or plan to):**
+I actually managed to figure it out only by referencing code from other parts of the app. It used a lot of the same concepts as creating the movie cards. The main difference was that it only had to display details for one card at a time (whichever is clicked) and I had to include a way to close the modal.
 
 #### 🔗 Resources Used:
 
@@ -331,14 +334,14 @@ Today was my birthday so I didn't spend much time learning today. I did add some
 
 #### ✅ Wins of the Day:
 
--
--
+- Finished core features of movie search app
+- Mostly got caught up after taking most of the day off on Tuesday for my birthday
 
 #### 📝 Notes for Tomorrow:
 
-- [ ] [What to focus on next]
-- [ ] [Any carry-over tasks]
+- [ ] Tomorrow will be the start of week 2, kicking off with DOM selection methods
+- [ ] Plan to add 1 feature to the movie search app if there is extra time after completing the day's learning.
 
 #### 💭 Reflection:
 
-[How are you feeling? Energy level? Confidence? Any concerns?]
+I'm feeling pretty good about where I'm at at this point, especially considered I crammed 2 days worth of learning into 1. Dealing with async/await confused me a bit, but I haven't covered those topics quite yet. Today's focus was using array methods. I'm feeling pretty confident now with how and when to use them. I'm excited to add additional features to it and maybe add my own ideas!
