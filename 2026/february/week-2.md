@@ -1,48 +1,42 @@
 ### [Thursday], [2/12/2026] - Day [8] of 90
 
-**Time Spent:** [X hours]
+**Time Spent:** [~ 3 hours]
 
 #### 🎯 Today's Focus:
 
-- [ ] [Learn DOM selection methods]
-- [ ] [Practice querySelector and querySelectorAll]
-- [ ] [Understand DOM tree navigation]
-- [ ] [Start interactive quiz app HTML/CSS]
+- [x] [Learn DOM selection methods]
+- [x] [Practice querySelector and querySelectorAll]
+- [x] [Understand DOM tree navigation]
+- [x] [Start interactive quiz app HTML/CSS]
+
 #### 📚 What I Learned:
 
--
--
--
+- How to manipulate and traverse the DOM
+- That the DOM is essentially a tree of nodes
 
 #### 💻 What I Built/Coded:
 
--
--
+- Completed some DOM exercises
+- Set up quiz app (HTML/CSS and created data in JS);
 
 #### 💡 Aha Moments:
 
-> [Something that finally clicked or a breakthrough understanding]
-
-#### 🚧 Challenges/Blockers:
-
-- **Challenge:**
-- **How I solved it (or plan to):**
+- For the longest time, I've never understood just how to use JavaScript to manipulate the DOM. A lot of courses out there don't really cover the DOM and focus solely on JavaScript concepts.
 
 #### 🔗 Resources Used:
 
-- [Tutorial/article link]
-- [Documentation link]
+- [javascript.info](https://javascript.info/document)
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 #### ✅ Wins of the Day:
 
--
+- Finally understanding how to manipulate the DOM
 -
 
 #### 📝 Notes for Tomorrow:
 
-- [ ] [What to focus on next]
-- [ ] [Any carry-over tasks]
+- [ ] Creating that logic for the quiz app!
 
 #### 💭 Reflection:
 
-[How are you feeling? Energy level? Confidence? Any concerns?]
+I'm feeling pretty good about manipulating the DOM and using selectors. I definitely still need more practice with it, but I think I have a strong start.
