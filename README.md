@@ -2,7 +2,7 @@
 
 > **Started:** 02/05/2026
 > **Goal:** Land a full stack developer role within 3 months  
-> **Current Week:** Week 1 of 12 (Week starts Thursdays)
+> **Current Week:** Week 2 of 12 (Week starts Thursdays)
 
 ---
 
