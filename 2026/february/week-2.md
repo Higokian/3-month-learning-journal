@@ -45,7 +45,7 @@ I'm feeling pretty good about manipulating the DOM and using selectors. I defini
 
 ### [Friday], [2/13/2026] - Day [9] of 90
 
-**Time Spent:** [X hours]
+**Time Spent:** [~2 hours]
 
 #### 🎯 Today's Focus:
 
@@ -94,4 +94,4 @@ I'm feeling pretty good about manipulating the DOM and using selectors. I defini
 
 #### 💭 Reflection:
 
-My energy level is a bit low. Getting up at 1:30am to get to work by 3:00am and then getting home around noon is rough. I'm mostly concerned about being able to keep up with my schedule and ensuring I'm retaining what I learn. 
+My energy level is a bit low. Getting up at 1:30am to get to work by 3:00am and then getting home around noon is rough. I'm mostly concerned about being able to keep up with my schedule and ensuring I'm retaining what I learn. I fell asleep sitting at my desk today...
