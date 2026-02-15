@@ -1,15 +1,15 @@
 # Full Stack Development Learning Journal
 
 > **Started:** 02/05/2026
-> **Goal:** Land a full stack developer role within 3 months  
-> **Current Week:** Week 2 of 12 (Week starts Thursdays)
+> **Goal:** Land a full stack developer role within 4 months (but it's okay if it takes longer) 
+> **Current Week:** Week 2 (Week starts Thursdays)
 
 ---
 
 ## Weekly Logs
 
 - [Week 1 - Javascript ES6](2026/february/week-1.md)
-- [Week 2 - Working with the DOM](2026/february/week-2.md)
+- [Week 2 - **Revised**: Reconstruction Week](2026/february/week-2.md)
 - [Week 3 - coming soon...]
 
 ---
@@ -24,7 +24,7 @@
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 10     |
+| Total Days Coded         | 10    |
 | GitHub Commits           | 87    |
 | Projects Completed       | 4     |
 | CodeWars Problems Solved | 4     |
@@ -35,7 +35,7 @@
 
 ### Quotes That Keep Me Going:
 
--
+- "I'm not racing to finish. I'm learning to understand."
 -
 -
 

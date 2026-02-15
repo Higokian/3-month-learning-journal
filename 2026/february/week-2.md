@@ -145,3 +145,83 @@ N/A
 I got a very late start today (3:15 pm). I only have enough time to finish my quiz app, so I'm going to need to try to get caught up.
 
 Update: I ended up doing a little bit of extra work right before bed. It mostly consisted of reading up on creating elements and insertion methods. My confidence is a little low right now. It feels nice to have completed the quiz app, but a lot of the code was a given so I didn't have much motive to figure out the logic without referencing the solution.
+
+---
+# Day [11] - [Sunday], [2/14/2026] Week 2
+
+## Reflection & Strategic Pivot
+
+**Time Spent:** 1 hour (planning)
+
+### 🎯 Today's Focus
+- Self-assessment and course correction
+- Planning reconstruction week
+
+### 📚 What I Learned
+The most important lesson: **copying code ≠ learning code**
+
+I've been racing through tutorials and guides, focusing on completing projects rather than understanding them deeply. While I can explain concepts theoretically, I struggle to apply them independently.
+
+### 💡 Aha Moments
+**Key realization:** I need to be able to build projects from scratch without references before moving forward. Understanding concepts when reading them is different from being able to implement them independently.
+
+**What clicked:** Programming is 20% syntax, 80% problem-solving logic. I need more practice with the logic part.
+
+### 🚧 Challenges Faced
+- Admitting I've been learning too superficially
+- Accepting I need to slow down
+- Adjusting timeline expectations
+
+### 📊 Self-Assessment Results
+**Strong areas:**
+- Can explain array methods (map, filter, reduce)
+- Understand event listeners conceptually
+- Can read and understand destructuring/spread operators
+
+**Need improvement:**
+- Applying concepts without looking at examples
+- Writing event handler logic independently
+- Problem solving/decomposition skills
+
+### 🔄 Action Plan
+**Starting tomorrow: Reconstruction Week**
+
+Goals:
+1. Rebuild temperature converter from scratch (Mon-Tue)
+2. Rebuild tip calculator from scratch (Tue-Wed)
+3. Rebuild simplified movie search from scratch (Wed-Fri)
+4. Self-assessment challenges (Sat-Sun)
+
+Rules:
+- No looking at previous code
+- Can look up syntax only
+- Must figure out logic myself
+- Must understand before moving on
+
+### 📅 Timeline Adjustment
+- Original: 3 months (end of April)
+- Adjusted: 4 months (mid-June)
+- Reason: Deep learning > Fast completion
+
+### ✅ Wins of the Day
+- Honest self-assessment
+- Identified specific gaps
+- Created concrete action plan
+- Committed to doing this right
+
+### 📝 Notes for Tomorrow
+- Write pseudocode for temperature converter
+- Sketch HTML structure
+- Plan JavaScript functions needed
+- Start building from scratch
+
+### 💭 Reflection
+This feels overwhelming, but necessary. I've been so concerned about completing everything, everyday to meet that 90 day goal, but that just isn't beneficial. I want to be capable of creating high quality code and build advanced skills based on true understanding of concepts. I also do not want to feel like I **need** to look at tutorial code to successfully complete a project. 
+
+It's better to build a solid foundation now than try to build advanced skills on shaky ground.
+
+**Quote that resonated today:** "I'm not racing to finish. I'm learning to understand."
+
+---
+
+**Next entry:** Day 12 - Temperature Converter Rebuild (Part 1)
