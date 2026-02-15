@@ -95,3 +95,53 @@ I'm feeling pretty good about manipulating the DOM and using selectors. I defini
 #### 💭 Reflection:
 
 My energy level is a bit low. Getting up at 1:30am to get to work by 3:00am and then getting home around noon is rough. I'm mostly concerned about being able to keep up with my schedule and ensuring I'm retaining what I learn. I fell asleep sitting at my desk today...
+
+---
+
+### [Saturday], [2/14/2026] - Day [10] of 90
+
+**Time Spent:** [X hours]
+
+#### 🎯 Today's Focus:
+
+- [x] [Finish quiz app]
+
+#### 📚 What I Learned:
+
+- How to create elements using JS
+- Insertion methods
+-
+
+#### 💻 What I Built/Coded:
+
+- Finished up the last of the logic for the quiz app
+-
+
+#### 💡 Aha Moments:
+
+N/A
+
+#### 🚧 Challenges/Blockers:
+
+N/A
+
+#### 🔗 Resources Used:
+
+- [Modifying Document - javascript.info] (https://javascript.info/modifying-document)
+
+#### ✅ Wins of the Day:
+
+- Completed quiz app
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [Getting caught up. Plan to do some reading at work]
+- [ ] [Quiz app enhancements]
+
+#### 💭 Reflection:
+
+[How are you feeling? Energy level? Confidence? Any concerns?]
+I got a very late start today (3:15 pm). I only have enough time to finish my quiz app, so I'm going to need to try to get caught up.
+
+Update: I ended up doing a little bit of extra work right before bed. It mostly consisted of reading up on creating elements and insertion methods. My confidence is a little low right now. It feels nice to have completed the quiz app, but a lot of the code was a given so I didn't have much motive to figure out the logic without referencing the solution.
