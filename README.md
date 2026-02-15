@@ -9,21 +9,24 @@
 ## Weekly Logs
 
 - [Week 1 - Javascript ES6](2026/february/week-1.md)
-- [Week 2 coming next week...]
+- [Week 2 - Working with the DOM](2026/february/week-2.md)
+- [Week 3 - coming soon...]
 
 ---
 
 ## 🏆 Completed Projects
 
 - [Temperature Converter](https://github.com/Higokian/temperature-converter)
+- [Tip Calculator](https://github.com/Higokian/tip-calculator)
+- [Movie Search App](https://github.com/Higokian/temperature-converter)
 
 ## 📈 Quick Stats
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 7     |
-| GitHub Commits           | 61    |
-| Projects Completed       | 3     |
+| Total Days Coded         | 10     |
+| GitHub Commits           | 87    |
+| Projects Completed       | 4     |
 | CodeWars Problems Solved | 4     |
 | Job Applications Sent    | 0     |
 | Interviews Scheduled     | 0     |
