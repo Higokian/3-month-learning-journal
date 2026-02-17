@@ -224,4 +224,46 @@ It's better to build a solid foundation now than try to build advanced skills on
 
 ---
 
-**Next entry:** Day 12 - Temperature Converter Rebuild (Part 1)
+
+### [Monday], [2/16/2026] - Day [12] of 90
+
+**Time Spent:** [0 hours]
+
+#### 🎯 Today's Focus:
+
+- [ ] [Recoup and refresh]
+
+#### 📚 What I Learned:
+
+- N/A
+
+#### 💻 What I Built/Coded:
+
+- N/A
+
+#### 💡 Aha Moments:
+
+- N/A
+
+#### 🚧 Challenges/Blockers:
+
+- N/A
+
+#### 🔗 Resources Used:
+
+- N/A
+
+#### ✅ Wins of the Day:
+
+- Took a much needed break
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [Temperature Converter Rebuild from scratch]
+
+#### 💭 Reflection:
+
+I initially did not plan on taking a break today, but I decided it would do me some good so I can come back feeling refreshed. Tomorrow will be the start and probably finish of my temperature converter rebuild. I feel pretty confident that I can do it. I do already have a plan created, so I think it will go fairly smoothly.
+
+
+**Next entry:** Day 13 - Temperature Converter Rebuild (Part 1)
