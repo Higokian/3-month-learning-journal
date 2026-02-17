@@ -267,3 +267,56 @@ I initially did not plan on taking a break today, but I decided it would do me s
 
 
 **Next entry:** Day 13 - Temperature Converter Rebuild (Part 1)
+
+
+---
+
+
+### [Tuesday], [2/117/2026] - Day [13] of 90
+
+**Time Spent:** [X hours]
+
+#### 🎯 Today's Focus:
+
+- [ ] [Build HTML/CSS
+- [ ] [Create JavaScript logic]
+- [ ] [Add at least one destructuring example]
+- [ ] [If time, attempt to rebuild it again within 1 hour]
+#### 📚 What I Learned:
+
+-
+-
+-
+
+#### 💻 What I Built/Coded:
+
+-
+-
+
+#### 💡 Aha Moments:
+
+> [Something that finally clicked or a breakthrough understanding]
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- **How I solved it (or plan to):**
+
+#### 🔗 Resources Used:
+
+- [Tutorial/article link]
+- [Documentation link]
+
+#### ✅ Wins of the Day:
+
+-
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [What to focus on next]
+- [ ] [Any carry-over tasks]
+
+#### 💭 Reflection:
+
+[How are you feeling? Energy level? Confidence? Any concerns?]
