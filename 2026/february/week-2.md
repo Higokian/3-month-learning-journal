@@ -327,49 +327,50 @@ I didn't spend as much time on it today as I should have/would have liked to. I 
 
 # Day [14] - [Wednesday], [2/18/2026] Week 2
 
-**Time Spent:** [X hours]
+**Time Spent:** [~3 hours]
 
 #### 🎯 Today's Focus:
 
-- [ ] [Main goal 1]
-- [ ] [Main goal 2]
-- [ ] [Main goal 3]
+- [ ] [Finish up temp conversion app]
 
 #### 📚 What I Learned:
 
--
--
--
+- I learned to not forget to use .value when referencing object keys
+- The display attribute in CSS overrides the html hidden attribute
+- 
 
 #### 💻 What I Built/Coded:
 
--
--
+- Finished the page layout for my temp conversion app
+- Completed the project!
 
 #### 💡 Aha Moments:
 
-> [Something that finally clicked or a breakthrough understanding]
+My biggest aha moment was realizing that CSS **display** attribute overrides html **hidden** attribute. I couldn't figure out for the life of me why my results section wasn't hiding!
 
 #### 🚧 Challenges/Blockers:
 
 - **Challenge:**
+My input kept return "NaN"
 - **How I solved it (or plan to):**
+Did some trial and error. Oddly enough, looking up destructuring triggered my memory and I remembered I need to use .value to get the number of the input. I also had forgotten in the html to change the input type to **number** instead of **text**.
 
 #### 🔗 Resources Used:
 
-- [Tutorial/article link]
-- [Documentation link]
+- [Linear Gradient Site](https://coolors.co/gradients)
+- [CSS Box Shadows](https://getcssscan.com/css-box-shadow-examples)
 
 #### ✅ Wins of the Day:
 
--
--
+- Completed the reconstructed version of my temperature conversion app!
+- Managed to use destructuring mostly without referencing MDN (forgot to use const...)
 
 #### 📝 Notes for Tomorrow:
 
-- [ ] [What to focus on next]
-- [ ] [Any carry-over tasks]
+- [ ] [Recreate the conversion app again - 1 hour challenge]
+- [ ] [Start on tip calculator]
 
 #### 💭 Reflection:
 
 [How are you feeling? Energy level? Confidence? Any concerns?]
+I'm feeling great after completing this reconstruction. I managed to complete it without looking at old code, at all. I figured out the logic on my own and wrote most of my code with minimal referencing other than destructuring and a few html/css things. The tip calculator is a step up, so I'm a little nervous about it, but after today I built up some confidence that I can do it. Writing everything out before coding helped majorly.
