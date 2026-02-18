@@ -284,13 +284,13 @@ I initially did not plan on taking a break today, but I decided it would do me s
 - [ ] [If time, attempt to rebuild it again within 1 hour]
 #### 📚 What I Learned:
 
--
+- I didn't learn too much today, mostly just relearned how to create html forms
 -
 -
 
 #### 💻 What I Built/Coded:
 
--
+- Set up basic html/css
 -
 
 #### 💡 Aha Moments:
@@ -300,23 +300,25 @@ I initially did not plan on taking a break today, but I decided it would do me s
 #### 🚧 Challenges/Blockers:
 
 - **Challenge:**
+Could not for the life of me remember how to create forms in html
 - **How I solved it (or plan to):**
+Searched MDN for help with this and figured it out in no time!
 
 #### 🔗 Resources Used:
 
-- [Tutorial/article link]
+- [<form>: The Form Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
 - [Documentation link]
 
 #### ✅ Wins of the Day:
 
--
+- Created basic page layout for my temp converter reconstruction
 -
 
 #### 📝 Notes for Tomorrow:
 
-- [ ] [What to focus on next]
-- [ ] [Any carry-over tasks]
+- [ ] [Finish up styling (without spending too much time on it)]
+- [ ] [Start working on JS logic]
 
 #### 💭 Reflection:
 
-[How are you feeling? Energy level? Confidence? Any concerns?]
+I didn't spend as much time on it today as I should have/would have liked to. I was hoping to get it finished today, but that's alright. At least I did make **some** progress. I'll be ready to tackle it tomorrow!
