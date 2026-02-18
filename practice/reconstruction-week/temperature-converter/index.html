@@ -11,14 +11,18 @@
       <h1>Temperature Conversion App - Reconstructed</h1>
     </header>
     <main id="container">
-      <form>
-        <label for="celsiusInput">Enter the Celsius: </label>
-        <input type="text" name="celsiusInput" id="celsiusInput" />
-        <input type="submit" value="Calculate" id="calculateBtn" />
-      </form>
+      <div class="card">
+        <h1>Temperature Conversion</h1>
+        <div id="form-container">
+        <form id="form">
+          <input type="text" name="celsiusInput" id="celsiusInput" placeholder="Enter the Celsius" />
+          <input type="submit" value="Calculate" id="calculateBtn" />
+        </form>
 
-      <div id="results">
-        <p>Fahrenheit</p>
+        <div id="results">
+          <p>Fahrenheit</p>
+        </div>
+        </div>
       </div>
     </main>
   </body>
