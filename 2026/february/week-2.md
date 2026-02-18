@@ -1,4 +1,4 @@
-### [Thursday], [2/12/2026] - Day [8] of 90
+# Day [8] - [Thursday], [2/12/2026] Week 2
 
 **Time Spent:** [~ 3 hours]
 
@@ -43,7 +43,7 @@ I'm feeling pretty good about manipulating the DOM and using selectors. I defini
 
 ---
 
-### [Friday], [2/13/2026] - Day [9] of 90
+# Day [9] - [Friday], [2/13/2026] Week 2
 
 **Time Spent:** [~2 hours]
 
@@ -98,7 +98,7 @@ My energy level is a bit low. Getting up at 1:30am to get to work by 3:00am and 
 
 ---
 
-### [Saturday], [2/14/2026] - Day [10] of 90
+# Day [10] - [Saturday], [2/14/2026] Week 2
 
 **Time Spent:** [X hours]
 
@@ -147,7 +147,7 @@ I got a very late start today (3:15 pm). I only have enough time to finish my qu
 Update: I ended up doing a little bit of extra work right before bed. It mostly consisted of reading up on creating elements and insertion methods. My confidence is a little low right now. It feels nice to have completed the quiz app, but a lot of the code was a given so I didn't have much motive to figure out the logic without referencing the solution.
 
 ---
-# Day [11] - [Sunday], [2/14/2026] Week 2
+# Day [11] - [Sunday], [2/15/2026] Week 2
 
 ## Reflection & Strategic Pivot
 
@@ -225,7 +225,7 @@ It's better to build a solid foundation now than try to build advanced skills on
 ---
 
 
-### [Monday], [2/16/2026] - Day [12] of 90
+# Day [12] - [Monday], [2/16/2026] Week 2
 
 **Time Spent:** [0 hours]
 
@@ -272,9 +272,9 @@ I initially did not plan on taking a break today, but I decided it would do me s
 ---
 
 
-### [Tuesday], [2/117/2026] - Day [13] of 90
+# Day [13] - [Tuesday], [2/17/2026] Week 2
 
-**Time Spent:** [X hours]
+**Time Spent:** [~ 3 hours]
 
 #### 🎯 Today's Focus:
 
@@ -322,3 +322,54 @@ Searched MDN for help with this and figured it out in no time!
 #### 💭 Reflection:
 
 I didn't spend as much time on it today as I should have/would have liked to. I was hoping to get it finished today, but that's alright. At least I did make **some** progress. I'll be ready to tackle it tomorrow!
+
+---
+
+# Day [14] - [Wednesday], [2/18/2026] Week 2
+
+**Time Spent:** [X hours]
+
+#### 🎯 Today's Focus:
+
+- [ ] [Main goal 1]
+- [ ] [Main goal 2]
+- [ ] [Main goal 3]
+
+#### 📚 What I Learned:
+
+-
+-
+-
+
+#### 💻 What I Built/Coded:
+
+-
+-
+
+#### 💡 Aha Moments:
+
+> [Something that finally clicked or a breakthrough understanding]
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+- **How I solved it (or plan to):**
+
+#### 🔗 Resources Used:
+
+- [Tutorial/article link]
+- [Documentation link]
+
+#### ✅ Wins of the Day:
+
+-
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [What to focus on next]
+- [ ] [Any carry-over tasks]
+
+#### 💭 Reflection:
+
+[How are you feeling? Energy level? Confidence? Any concerns?]
