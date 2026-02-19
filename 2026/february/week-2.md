@@ -372,5 +372,4 @@ Did some trial and error. Oddly enough, looking up destructuring triggered my me
 
 #### 💭 Reflection:
 
-[How are you feeling? Energy level? Confidence? Any concerns?]
 I'm feeling great after completing this reconstruction. I managed to complete it without looking at old code, at all. I figured out the logic on my own and wrote most of my code with minimal referencing other than destructuring and a few html/css things. The tip calculator is a step up, so I'm a little nervous about it, but after today I built up some confidence that I can do it. Writing everything out before coding helped majorly.
