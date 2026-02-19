@@ -2,7 +2,7 @@
 
 > **Started:** 02/05/2026
 > **Goal:** Land a full stack developer role within 4 months (but it's okay if it takes longer) 
-> **Current Week:** Week 2 (Week starts Thursdays)
+> **Current Week:** Week 3 (Week starts Thursdays)
 
 ---
 
@@ -10,7 +10,8 @@
 
 - [Week 1 - Javascript ES6](2026/february/week-1.md)
 - [Week 2 - **Revised**: Reconstruction Week](2026/february/week-2.md)
-- [Week 3 - coming soon...]
+- [Week 3 - Reconstruction Week Continued](2026/february/week-3.md)
+- [Week 4 - Coming soon...]
 
 ---
 
