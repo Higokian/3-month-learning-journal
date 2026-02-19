@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quick Practice</title>
+</head>
+<body>
+    <input type="number" id="bill" placeholder="Bill amount">
+    <button id="btn">Calculate 15% Tip</button>
+    <p id="result"></p>
+    
+    <script>
+        const bill = document.getElementById('bill');
+        const btn = document.getElementById('btn');
+        const result = document.getElementById('result');
+        
+        btn.addEventListener('click', () => {
+            // YOUR CODE HERE
+            
+            // 1. Get bill value
+            const billValue = parseFloat(bill.value);
+            // 2. Calculate 15% tip
+            const tip = (billValue * 15) / 100;
+            const total = billValue + tip;
+            
+            // 3. Display result
+            result.textContent = `Total bill is: ${total.toFixed(2)}`
+        });
+    </script>
+</body>
+</html>
