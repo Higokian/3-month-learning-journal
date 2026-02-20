@@ -18,16 +18,18 @@
 ## 🏆 Completed Projects
 
 - [Temperature Converter](https://github.com/Higokian/temperature-converter)
+- [Temperature Converter (Reconstructed)](practice/reconstruction-week/temperature-converter/)
 - [Tip Calculator](https://github.com/Higokian/tip-calculator)
+- [Tip Calculator (Reconstructed)](practice/reconstruction-week/tip-calculator/)
 - [Movie Search App](https://github.com/Higokian/temperature-converter)
 
 ## 📈 Quick Stats
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Total Days Coded         | 10    |
-| GitHub Commits           | 87    |
-| Projects Completed       | 4     |
+| Total Days Coded         | 15    |
+| GitHub Commits           | 105   |
+| Projects Completed       | 6     |
 | CodeWars Problems Solved | 4     |
 | Job Applications Sent    | 0     |
 | Interviews Scheduled     | 0     |
