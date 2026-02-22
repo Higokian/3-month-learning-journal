@@ -1,5 +1,3 @@
-## Daily Log Template
-
 ### [Day of Week], [Date] - Day [X] of 90
 
 **Time Spent:** [X hours]
