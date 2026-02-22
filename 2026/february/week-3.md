@@ -54,3 +54,48 @@ I'm actually feeling pretty good about my progress today! It went a lot smoother
 #### Reflection
 
 Unfortunately, I woke up with a migraine Friday morning and it lasted through the day and into Saturday so I didn't make any progress on either day. I'm determined to have the movie search app completed by Wednesday and I would like to add extra some of the bonus features to each project before the end of the week.
+
+### [Sunday], [2/22/2026] - Day [18]
+
+**Time Spent:** [1 hour 30 min]
+
+#### 🎯 Today's Focus:
+
+- [ ] [Start movie search reconstruction]
+
+#### 📚 What I Learned:
+
+- I learned a little bit about async/await and try/catch
+
+#### 💻 What I Built/Coded:
+
+- Fetch practice
+- HTML/CSS of movie search (simplified) and added DOM selection code to js
+
+#### 💡 Aha Moments:
+
+None today
+
+#### 🚧 Challenges/Blockers:
+
+- **Challenge:**
+Fetching api data
+- **How I solved it (or plan to):**
+I have no idea how to fetch api or what the purpose of async/await is. I briefly went over the concepts, but I need to dive deeper. I plan to spend some time reading up on it on my breaks at work tomorrow so I should be prepared to finish the movie search reconstruction afterwards.
+#### 🔗 Resources Used:
+
+- [Tutorial/article link]
+- [Documentation link]
+
+#### ✅ Wins of the Day:
+
+- Started movie search reconstruction
+-
+
+#### 📝 Notes for Tomorrow:
+
+- [ ] [Learning how to fetch api data (async/await, try/catch)]
+
+#### 💭 Reflection:
+
+Energy level is low, but still recovering from migraine. I'm looking forward to diving deeper into fetching api data tomorrow. I'm not confident in my knowledge at the moment, but I am confident I'll have it down by tomorrow.
