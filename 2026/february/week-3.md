@@ -48,3 +48,9 @@ Since I opted for having my calculate() return an array and I destructered it, m
 #### 💭 Reflection:
 
 I'm actually feeling pretty good about my progress today! It went a lot smoother than I expected (also took less time because I decided not to worry about recreating the html/css and just copied and pasted it from the first version. I'm focused on the js, so I didn't feel it was necessary to worry about html/css for now). What I was not expecting, was to have problems with validation, as it typically seems pretty straight forward. I am, however, really happy that I managed to use destructuring without even having to reference MDN! Tomorrow, I think I will revisit this and try to refactor a little bit to include the spread operator. I already have at least 1 idea of where I can implement that. Until tomorrow!
+
+### [Friday] & [Saturday], [2/20/2026] & [2/21/2026] - Day [16] & [17]
+
+#### Reflection
+
+Unfortunately, I woke up with a migraine Friday morning and it lasted through the day and into Saturday so I didn't make any progress on either day. I'm determined to have the movie search app completed by Wednesday and I would like to add extra some of the bonus features to each project before the end of the week.
