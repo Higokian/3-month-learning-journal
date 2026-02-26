@@ -82,6 +82,7 @@ None today
 Fetching api data
 - **How I solved it (or plan to):**
 I have no idea how to fetch api or what the purpose of async/await is. I briefly went over the concepts, but I need to dive deeper. I plan to spend some time reading up on it on my breaks at work tomorrow so I should be prepared to finish the movie search reconstruction afterwards.
+
 #### 🔗 Resources Used:
 
 - [Tutorial/article link]
@@ -99,3 +100,9 @@ I have no idea how to fetch api or what the purpose of async/await is. I briefly
 #### 💭 Reflection:
 
 Energy level is low, but still recovering from migraine. I'm looking forward to diving deeper into fetching api data tomorrow. I'm not confident in my knowledge at the moment, but I am confident I'll have it down by tomorrow.
+
+### [Monday] - [Wednesday], [2/23/2026] - [2/25/2026] - Day [19] - [21]
+
+#### Reflection
+
+I made no progress any of these days. It has been hectic for me recently. I'm disappointed that I haven't spent more time finishing my reconstruction projects. I'm hoping to get the movie search reconstruction project finished up by tomorrow so I can finally move on.
