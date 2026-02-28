@@ -101,7 +101,7 @@ I have no idea how to fetch api or what the purpose of async/await is. I briefly
 
 Energy level is low, but still recovering from migraine. I'm looking forward to diving deeper into fetching api data tomorrow. I'm not confident in my knowledge at the moment, but I am confident I'll have it down by tomorrow.
 
-### [Monday] - [Wednesday], [2/23/2026] - [2/25/2026] - Day [19] - [21]
+### [Monday] - [Wednesday], [2/23/2026] - [2/27/2026] - Day [19] - [23]
 
 #### Reflection
 
