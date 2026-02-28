@@ -17,6 +17,20 @@ const {searchInput, searchBtn, error, results} = elements;
 
 // 3. Fetch movies function
 // TODO: Write async function that fetches from API
+const fetchMovies = async (searchTerm) => {
+    try {
+        const response = await fetch(`${API_URL}?apikey=${API_KEY}&s=${searchTerm}`);
+        const data = await response.json();
+
+        if (data.Response === "false") {
+            throw new Error(data.Error);
+        }
+
+        return data.Search; // Array of movies
+    } catch (err) {
+        throw new Error(err.message || "Failed to fetch movies");
+    }
+};
 
 // 4. Display movies function
 // TODO: Use map() to create HTML cards
