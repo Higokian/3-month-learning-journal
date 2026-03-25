@@ -1,17 +1,16 @@
 # Full Stack Development Learning Journal
 
 > **Started:** 02/05/2026
-> **Goal:** Land a full stack developer role within 4 months (but it's okay if it takes longer) 
-> **Current Week:** Week 3 (Week starts Thursdays)
+> **Goal:** Land a full stack developer role
 
 ---
 
 ## Weekly Logs
 
-- [Week 1 - Javascript ES6](2026/february/week-1.md)
-- [Week 2 - **Revised**: Reconstruction Week](2026/february/week-2.md)
-- [Week 3 - Reconstruction Week Continued](2026/february/week-3.md)
-- [Week 4 - Coming soon...]
+- [Javascript ES6](2026/february/week-1.md)
+- [**Revised**: Reconstruction](2026/february/week-2.md)
+- [Reconstruction Continued](2026/february/week-3.md)
+- [Coming soon...]
 
 ---
 
