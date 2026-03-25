@@ -43,16 +43,15 @@
 
 ### Why I'm Doing This:
 
-[Your personal reasons]
+My dream is to work from home, doing something I genuinely enjoy while making decent money. I've worked in hospitality for nearly 12 years and I'm ready for a change.
 
 ### When I Feel Stuck, I Remember:
 
--
+- Sometimes, a break is all that's needed. Do something else and come back feeling refreshed
 -
 -
 
 ### Wins to Celebrate (Big & Small):
 
--
--
-- ***
+- Solving problems I get stuck on
+- When concepts finally "click"
